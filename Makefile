@@ -1,2 +1,2 @@
-TARGET=lease
+TARGETS=lease
 include Makefile.include
